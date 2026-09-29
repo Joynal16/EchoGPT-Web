@@ -35,6 +35,9 @@ npm run start
 ### Deploy
 This project is ready to deploy to Vercel or any host that supports Next.js applications.
 
+### Live Link
+https://echogpt-web-app.netlify.app/
+
 ## Technologies Used
 - Next.js 16
 - React 18
